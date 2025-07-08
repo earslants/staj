@@ -40,7 +40,7 @@ class _LoginState extends State<Login> {
               controller: passwordController,
               decoration: InputDecoration(
                 border: const OutlineInputBorder(),
-                hintText: "Password",
+                hintText: "Passworddddd",
                 prefixIcon: const Icon(Icons.lock),
                 suffixIcon: IconButton(
                   onPressed: () {
